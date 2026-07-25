@@ -19,7 +19,7 @@
 | LED Azul | GPIO 13 | OUT |
 
 ##  Montaje Físico
-![Montaje del circuito][https://raw.githubusercontent.com/12moontero/Microcontroladores/refs/heads/main/proyectos/Raspberry-Pi-Pico-2-W/02-police-siren/v1.0/imagen-v1.0.png]
+![Montaje del circuito](https://raw.githubusercontent.com/12moontero/Microcontroladores/refs/heads/main/proyectos/Raspberry-Pi-Pico-2-W/02-police-siren/v1.0/imagen-v1.0.png)
 
 ## ⚙️ Cómo Funciona
 1. **Inicio:** Se encienden los LEDs 
