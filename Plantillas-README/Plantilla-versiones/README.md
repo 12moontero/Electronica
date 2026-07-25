@@ -1,4 +1,4 @@
-# [Nombre del Proyecto] - Versión [Ej: V2.0]
+# [Nombre del Proyecto] - Versión [Ej: v2.0]
 
 > **Objetivo:** [Qué hace esta versión.]
 
