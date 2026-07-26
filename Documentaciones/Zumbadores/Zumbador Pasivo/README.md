@@ -9,4 +9,4 @@ Es fácil de conectar, tienes que poner tu cable con corriente a una pata y la o
 * **Lo difícil de este componente es programarlo en C++, solo se puede programar con PWM**
 
 ## Imagen Visual
-![Imagen](ruta_imagen.png)
+![Imagen](https://raw.githubusercontent.com/12moontero/Microcontroladores/refs/heads/main/Documentaciones/Zumbadores/Zumbador%20Pasivo/Zumabdor.png)
