@@ -15,4 +15,4 @@
 3. **Paso 3: Calcula:** la librería interpreta esos impulsos eléctricos y los traduce directamente a grados centígrados y porcentaje de humedad legibles en pantalla.
 
 ## Foto
-![Foto del sensor](ruta_imagen.png)
+![Foto del sensor](https://raw.githubusercontent.com/12moontero/Microcontroladores/refs/heads/main/Documentaciones/DHT11/DHT11.png)
